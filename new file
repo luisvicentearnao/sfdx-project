@@ -1,0 +1,1 @@
+Create or modify a file in the sfdx-project repository you created. Next, tell Git which files to version then “save” them to your repository’s history. A typical development pattern is to edit files in your project, add the files you want to save using the git add command, and then take a snapshot of the file revisions using the git commit command.
